@@ -2,8 +2,6 @@
 
 I'm currently a student with [Code Institute](https://codeinstitute.net/) studying towards a diploma in Full Stack Software Development. My goal is to gain new skills and find creative ways to apply them as I develop my career.
 
-:round_pushpin: :wales:
-
 ## Languages and Tools
 
 :seedling: I’m currently learning..
